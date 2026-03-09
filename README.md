@@ -46,7 +46,3 @@ reports/contract_issues.csv
 reports/contract_summary.txt
 
 CSV можно открыть в Excel.
-
-## Автор
-
-Софья
